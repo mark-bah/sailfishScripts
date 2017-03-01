@@ -1,0 +1,7 @@
+base: http://catalog.data.gov/api/3/
+Number of packages: 11129.
+package#: 1
+package name: 0000-0003-4469-8298
+raw info: [#<CKAN::Resource:0x007fce6b066440 @url="https://datahub.io/dataset/74ec4b51-f745-4282-bb26-3c3746bf0f4e/resource/90232f11-5ac6-4dbf-b784-084bd51b3fd5/download/osybiography.htm", @format="HTML", @description="Oscar R. Gómez' Biography", @hash="">]
+
+package#: 2

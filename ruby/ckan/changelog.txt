@@ -1,0 +1,8 @@
+0.0.3
+- Minor fix: 0.0.2 release has a missing group.rb file
+0.0.2
+- Implementation of the group API
+- (temporary) Uses 1.0 CKAN API
+0.0.1
+- Initial implementation of the CKAN API for packages and resources
+- Uses 2.0 CKAN API
